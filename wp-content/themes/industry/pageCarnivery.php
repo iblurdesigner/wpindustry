@@ -1,5 +1,5 @@
 <?php 
-/*Template Name: Fichas Carnivery*/
+/*Template Name: Page Carnivery*/
  ?>
 <?php get_header(); ?>
 <body>
@@ -54,7 +54,7 @@
 				</div>
 				<div class="col m8 cajaW">
 					<?php
-						$args = array('cat' => 2, 'posts_per_page' => 1);
+						$args = array('cat' => 5, 'posts_per_page' => 1);
 						$filter_posts = new WP_Query($args);
 
 						if ($filter_posts->have_posts() ) : 
@@ -64,7 +64,6 @@
 						<!-- post -->
 						<h2><?php the_title(); ?></h2>
 						<p><?php the_content( $more_link_text, $strip_teaser ); ?></p>	
-						<a href="<?php the_permalink(); ?>"></a>
 					<?php
 						endwhile;
 						else :
@@ -77,7 +76,7 @@
 					?>
 				</div>
 				<div class="col m2">
-					<?php get_sidebar('fCarnivery'); ?>
+					<?php get_sidebar(); ?>
 				</div>
 			</div>
 		</div>

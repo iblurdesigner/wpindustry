@@ -1,3 +1,6 @@
+<?php 
+/*Template Name: Page Industry*/
+ ?>
 <?php get_header(); ?>
 <body>
 	<!-- NAV   -->
@@ -41,7 +44,6 @@
 	<div class="main-container fpresentacion alfa">
 	  <div class="container centrar">
 	    <img src="<?php echo get_template_directory_uri(); ?>/img/logoIndustry.png", id="logoIndustry" class="sombra" />
-	    <span>Esto es la pagina de fichas de Carnivery</span>
 	    <div class="row center">
 	      <p class="col s12">Procesamos, comercializamos y desarrollamos productos cárnicos inocuos de alta calidad, al alcance de todos los segmentos del sector HORECA e industrial en Ecuador</p>
 	    </div>
@@ -55,6 +57,9 @@
 				</div>
 				<div class="col m8 cajaW">
 					<?php
+						$args = array('posts_per_page' => 1);
+						$filter_posts = new WP_Query($args);
+
 						if ($filter_posts->have_posts() ) : 
 							while ($filter_posts->have_posts() ) : 
 								$filter_posts->the_post();
@@ -62,7 +67,6 @@
 						<!-- post -->
 						<h2><?php the_title(); ?></h2>
 						<p><?php the_content( $more_link_text, $strip_teaser ); ?></p>	
-						<a href="<?php the_permalink(); ?>"></a>
 					<?php
 						endwhile;
 						else :
@@ -75,7 +79,7 @@
 					?>
 				</div>
 				<div class="col m2">
-					<?php get_sidebar(); ?>
+					<?php get_sidebar('fIndustry'); ?>
 				</div>
 			</div>
 		</div>
