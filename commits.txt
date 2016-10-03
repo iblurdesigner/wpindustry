@@ -1,0 +1,35 @@
+commit cb6246f868d04d709d9112d066fe9d144d4b9b7a
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Aug 30 16:13:31 2016 -0500
+
+    creación de single page para plantilla de entradas, terminadas las fichas de RES
+
+commit 78f08b47542d06a92762500c226df8645507d260
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Aug 10 16:27:06 2016 -0500
+
+    enlaces arreglados de los iconos y fondos
+
+commit beedad16dceab089c3c4c618be85a8ac0c13ef1c
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Wed Aug 10 12:20:30 2016 -0500
+
+    Arreglo en el nav y sidenav
+
+commit 2983cccbf803f33b8df0113b5f3684a2927d3069
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 4 15:27:04 2016 -0500
+
+    creado el archivo functions.php para el sidebar
+
+commit e8bdf3cf4d776ea0f62ec7710ae0bbb4e1640b13
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Tue Aug 2 12:14:08 2016 -0500
+
+    creada la estructura de las fichas
+
+commit ea3acab4aa46b904d2d191b6fac0d13aa8986985
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Jul 29 12:28:42 2016 -0500
+
+    subiendo todos los archivos base
