@@ -53,58 +53,58 @@
       			<a href="http://localhost:8888/industry/2016/10/03/chuletero/">Chuletero</a>
       		</li>
       		<li>
-      			<a href="">Chuletero rebanado</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/chuletero-rebanado/">Chuletero rebanado</a>
       		</li>
       		<li>
-      			<a href="">Costillar Americano</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/costillar-americano/">Costillar Americano</a>
       		</li>
       		<li>
-      			<a href="">Costillar Baby back</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/costillar-baby-back/">Costillar Baby back</a>
       		</li>
       		<li>
-      			<a href="">Costillar SC/SG</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/costillar-scsg/">Costillar SC/SG</a>
       		</li>
       		<li>
-      			<a href="">Cuero</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/cuero/">Cuero</a>
       		</li>
       		<li>
-      			<a href="">Cuero retazo</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/cuero-retazo/">Cuero retazo</a>
       		</li>
       		<li>
-      			<a href="">Grasa Chicharrón</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/grasa-chicharron/">Grasa Chicharrón</a>
       		</li>
       		<li>
-      			<a href="">Hueso carnudo</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/hueso-carnudo-2/">Hueso carnudo</a>
       		</li>
       		<li>
-      			<a href="">Lomo Falda</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/lomo-falda-3/">Lomo Falda</a>
       		</li>
       		<li>
-      			<a href="">Lomo Fino</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/lomo-fino-3/">Lomo Fino</a>
       		</li>
       		<li>
-      			<a href="">Media Canal</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/media-canal/">Media Canal</a>
       		</li>
                   <li>
-                        <a href="">Orejas</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/orejas/">Orejas</a>
                   </li>
                   <li>
-                        <a href="">Panceta</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/panceta/">Panceta</a>
                   </li>
                   <li>
-                        <a href="">Panceta tocino</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/panceta-tocino/">Panceta tocino</a>
                   </li>
                   <li>
-                        <a href="">Patas</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/patas/">Patas</a>
                   </li>
                   <li>
-                        <a href="">Pierna</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/pierna/">Pierna</a>
                   </li>
                   <li>
-                        <a href="">Pulpa</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/pulpa/">Pulpa</a>
                   </li>
                   <li>
-                        <a href="">Trimming</a>
+                        <a href="http://localhost:8888/industry/2016/10/04/trimming/">Trimming</a>
                   </li>
       	</ul>
       </div>
@@ -114,39 +114,42 @@
       <div class="collapsible-body lista">
       	<ul>
       		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/pollo-entero/">Pollo Entero</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/filete-pechuga-de-pollo/">Filete Pechuga</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/pechuga-mp/">Pechuga MP</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/pechuga-entera/">Pechuga Entera</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/filete-muslo-de-pollo/">Filete de Muslo</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/muslo-de-pollo/">Muslo</a>
-      		</li>
-      		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/pierna-muslo/">Pierna Muslo</a>
-      		</li>
-      		<li>
       			<a href="http://localhost:8888/industry/2016/10/03/alas-de-pollo/">Alas</a>
       		</li>
       		<li>
-      			<a href="http://localhost:8888/industry/2016/10/03/fritada-de-pollo/">Fritada de Pollo</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/espaldilla/">Espaldilla</a>
       		</li>
       		<li>
-      			<a href="http://localhost:8888/industry/2016/09/26/juliana-de-pollo/">Juliana</a>
+      			<a href="http://localhost:8888/industry/2016/10/04/hueso-pechuga/">Hueso pechuga</a>
       		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/muslo-mp/">Muslo MP</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/muslo/">Muslo</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/pechuga-mp-2/">Pechuga MP</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/pechuga/">Pechuga</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/piel/">Piel</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/pierna-muslo-2/">Pierna Muslo</a>
+      		</li>
+      		<li>
+      			<a href="http://localhost:8888/industry/2016/10/04/piernas/">Piernas</a>
+      		</li>
+                  <li>
+                        <a href="http://localhost:8888/industry/2016/10/04/pollo-entero-2/">Pollo Entero</a>
+                  </li>
       	</ul>
       </div>
     </li>
-    <li>
+<!--     <li>
       <div class="collapsible-header">CHARCUTERÍA</div>
       <div class="collapsible-body lista">
       	<ul>
@@ -185,5 +188,5 @@
       		</li>
       	</ul>
       </div>
-    </li>
+    </li> -->
   </ul>
